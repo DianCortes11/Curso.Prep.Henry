@@ -1,0 +1,5 @@
+Objetos: Es un entidad independiente con propiedades y tipos. Compáralo con una taza, por ejemplo. Una taza es un objeto con propiedades. Una taza tiene un color, un diseño, un peso, un material del que está hecha, etc. Del mismo modo, los objetos de JavaScript pueden tener propiedades que definan sus características.
+Propiedades: Una propiedad de un objeto se puede explicar como una variable adjunta al objeto. Las propiedades de un objeto básicamente son lo mismo que las variables comunes de JavaScript, excepto por el nexo con el objeto. Las propiedades de un objeto definen las características del objeto.
+Metodos: Un metodo es una función la cual es propiedad de un Objeto.
+Bucle for...in: Un bucle for...in solo itera sobre propiedades enumerables que no son símbolo.
+Notacion de puntos vs notacion de corchetes: la notacion de puntos nos ayuda acceder a un elemento dentro de un objeto. La notacion de corchetes es tambien otra forma de acceder a las propiedades de un elemento, en lugar de usar un número de índice para seleccionar un elemento, se esta utilizando el nombre asociado con el valor de cada miembro.
